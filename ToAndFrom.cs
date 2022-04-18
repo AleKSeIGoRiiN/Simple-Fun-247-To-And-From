@@ -17,8 +17,7 @@ namespace ToAndFrom
             int chek;
             int result = 0;
 
-            if (t < 3 || a==b || a < 1 || b < 1) 
-            { Console.WriteLine("Incorrect data entered"); Console.ReadKey(true); }
+            
 
             if (t >= 3 && a != b && a>=1 && b>=1)
             {
@@ -84,11 +83,19 @@ namespace ToAndFrom
             CodewarsTask solution = new CodewarsTask();
 
             int result = solution.ToAndFrom(a, b, t);
-            if(result != 0)
+            
+            if(result == 0)
+            {
+                Console.WriteLine(result);
+                Console.WriteLine("incorrect data entered");
+                Console.ReadKey(true);
+            }
+            else
             {
                 Console.WriteLine(result);
                 Console.ReadKey(true);
             }
+            
 
         }
 
