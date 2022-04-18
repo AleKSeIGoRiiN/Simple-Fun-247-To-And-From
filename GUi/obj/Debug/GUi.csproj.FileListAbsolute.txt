@@ -1,0 +1,15 @@
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\GUi\obj\Debug\GUi.csproj.AssemblyReference.cache
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\GUi\obj\Debug\GUi.csproj.SuggestedBindingRedirects.cache
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\GUi\obj\Debug\GUi.Form1.resources
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\GUi\obj\Debug\GUi.Properties.Resources.resources
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\GUi\obj\Debug\GUi.csproj.GenerateResource.cache
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\GUi\obj\Debug\GUi.csproj.CoreCompileInputs.cache
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\GUi\bin\Debug\GUi.exe.config
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\GUi\bin\Debug\GUi.exe
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\GUi\bin\Debug\GUi.pdb
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\GUi\bin\Debug\ToAndFrom.exe
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\GUi\bin\Debug\ToAndFrom.pdb
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\GUi\bin\Debug\ToAndFrom.exe.config
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\GUi\obj\Debug\GUi.csproj.CopyComplete
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\GUi\obj\Debug\GUi.exe
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\GUi\obj\Debug\GUi.pdb

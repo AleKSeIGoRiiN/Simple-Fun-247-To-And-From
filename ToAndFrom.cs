@@ -5,15 +5,18 @@ using System.Text;
 using System.IO;
 using System.Threading.Tasks;
 
+
 namespace ToAndFrom
 {
     public class Data // Ввод данных с файла и вывод
     {
         public StreamWriter wr = new StreamWriter("C:\\Users\\lllll\\Documents\\GitHub\\Simple-Fun-247-To-And-From\\output.txt");
         public StreamReader reader = new StreamReader("C:\\Users\\lllll\\Documents\\GitHub\\Simple-Fun-247-To-And-From\\input.txt");
+       
 
         public int inputArg1()
         {
+
             int a = Convert.ToInt32(reader.ReadLine());
             return a;
         }
