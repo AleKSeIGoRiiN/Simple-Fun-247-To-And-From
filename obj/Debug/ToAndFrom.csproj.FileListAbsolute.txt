@@ -1,0 +1,8 @@
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\bin\Debug\ToAndFrom.exe.config
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\bin\Debug\ToAndFrom.exe
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\bin\Debug\ToAndFrom.pdb
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\obj\Debug\ToAndFrom.csproj.AssemblyReference.cache
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\obj\Debug\ToAndFrom.csproj.SuggestedBindingRedirects.cache
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\obj\Debug\ToAndFrom.csproj.CoreCompileInputs.cache
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\obj\Debug\ToAndFrom.exe
+C:\Users\lllll\Documents\GitHub\Simple-Fun-247-To-And-From\obj\Debug\ToAndFrom.pdb
